@@ -1,4 +1,4 @@
-# gallery
+# artwork
 
 :thought_balloon: my :art: work
 
