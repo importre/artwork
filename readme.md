@@ -2,19 +2,17 @@
 
 :thought_balloon: my :art: work
 
-| name                | image        | name                | image       |
-|:-------------------:|:------------:|:-------------------:|:-----------:|
-| footprint           | ![footprint] | lab                 | ![lab]      |
-| classbook           | ![classbook] | [epp][eppnote]      | ![epp]      |
-| guru                | ![guru]      | [kotlinkr][kknote]  | ![kotlinkr] |
-| [photonkit][pknote] | ![photonkit] | [hieuh][hieuh_note] | ![hieuh]    |
+| image                  | image                 |
+|:----------------------:|:---------------------:|
+| ![footprint]           | ![lab]                |
+| ![classbook]           | [![epp]][eppnote]     |
+| ![guru]                | [![kotlinkr]][kknote] |
+| [![photonkit]][pknote] | ![hieuh]              |
 
 
 ## License
 
 MIT © [Jaewe Heo](http://import.re)
-
-
 
 
 
