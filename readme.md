@@ -14,9 +14,6 @@
 | [![ekfb]][ekfbnote]    |
 
 
-## License
-
-MIT © [Jaewe Heo](http://import.re)
 
 
 
