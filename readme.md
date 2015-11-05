@@ -6,12 +6,13 @@
 |:----------------------:|:---------------------:|:----------------------:|
 | ![footprint]           | ![lab]                | ![hieuh]               |
 | [![kotlinkr]][kknote]  | [![kotlin]][knote]    | [![photonkit]][pknote] |
-| [![elec]][elecnote]    | ![guru]               |                        |
+| [![elec]][elecnote]    | ![guru]               | [![yeobara]][yeonote]  |
 
 | image                  |
 |:----------------------:|
 | [![kkfb]][kkfbnote]    |
 | [![ekfb]][ekfbnote]    |
+| [![yeoand]][yeonote]   |
 
 
 
@@ -35,6 +36,8 @@
 [ekfb]: electron/facebook%20cover.png
 [lab]: lab/512/ic_launcher.png
 [photonkit]: photonkit/512/ic_launcher.png
+[yeobara]: yeobara/listing/icon/icon.png
+[yeoand]: yeobara/listing/featureGraphic/feature_graphic.png
 
 [elecnote]: http://electron.atom.io/
 [hieuh_note]: http://www.fileformat.info/info/unicode/char/1112/index.htm
@@ -43,3 +46,4 @@
 [kkfbnote]: https://www.facebook.com/kotlinkr
 [ekfbnote]: https://www.facebook.com/groups/808628819214318
 [pknote]: https://github.com/react-photonkit/
+[yeonote]: https://github.com/yeobara/
