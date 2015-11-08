@@ -2,10 +2,6 @@
 
 :thought_balloon: my :art: work
 
-| image                       | image                 | image                  |
-|:---------------------------:|:---------------------:|:----------------------:|
-| [![selector]][selectornote] |                       |                        |
-
 | image                  | image                 | image                  |
 |:----------------------:|:---------------------:|:----------------------:|
 | ![footprint]           | ![lab]                | ![hieuh]               |
@@ -17,6 +13,10 @@
 | [![kkfb]][kkfbnote]    |
 | [![ekfb]][ekfbnote]    |
 | [![yeoand]][yeonote]   |
+
+| image                       | image                 | image                  |
+|:---------------------------:|:---------------------:|:----------------------:|
+| [![selector]][selectornote] |                       |                        |
 
 
 
