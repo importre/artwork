@@ -2,6 +2,10 @@
 
 :thought_balloon: my :art: work
 
+| image                       | image                 | image                  |
+|:---------------------------:|:---------------------:|:----------------------:|
+| [![selector]][selectornote] |                       |                        |
+
 | image                  | image                 | image                  |
 |:----------------------:|:---------------------:|:----------------------:|
 | ![footprint]           | ![lab]                | ![hieuh]               |
@@ -38,6 +42,7 @@
 [photonkit]: photonkit/512/ic_launcher.png
 [yeobara]: yeobara/listing/icon/icon.png
 [yeoand]: yeobara/listing/featureGraphic/feature_graphic.png
+[selector]: android-selector/icon@2x.png
 
 [elecnote]: http://electron.atom.io/
 [hieuh_note]: http://www.fileformat.info/info/unicode/char/1112/index.htm
@@ -47,3 +52,4 @@
 [ekfbnote]: https://www.facebook.com/groups/808628819214318
 [pknote]: https://github.com/react-photonkit/
 [yeonote]: https://github.com/yeobara/
+[selectornote]: https://github.com/importre/android-selector-intellij-plugin
