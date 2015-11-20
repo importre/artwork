@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="1024px" height="500px" viewBox="0 0 1024 500" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.4.2 (15857) - http://www.bohemiancoding.com/sketch -->
+    <title>feature_graphic</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.35 0" in="shadowBlurOuter1" type="matrix" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Google-Play---Feature-Graphic" sketch:type="MSArtboardGroup">
+            <text id="YEOBARA" fill="white" filter="url(#filter-1)" sketch:type="MSTextLayer" font-family="Ridimalist" font-size="150" font-weight="normal" sketch:alignment="middle">
+                <tspan x="311.45" y="445" fill="#000000">YEOBARA</tspan>
+            </text>
+            <g id="Rectangle-3-+-Rectangle-4-+-Oval-2-+-Oval-4" sketch:type="MSLayerGroup" transform="translate(-157.000000, 20.000000)" fill="#000000">
+                <g id="Rectangle-3-+-Rectangle-4" transform="translate(86.817500, 302.156863)" sketch:type="MSShapeGroup">
+                    <path d="M41.7175,38.413689 C41.7175,27.3650541 50.3220341,15.8969735 60.9531236,12.8977201 C60.9531236,12.8977201 103.194573,0 120.621106,0 C138.034254,0 180.338212,12.9039528 180.338212,12.9039528 C190.958254,15.9439562 199.5675,27.3627673 199.5675,38.413689 L199.5675,35.7870511 C199.5675,46.8356861 191.085786,52.9191079 180.589982,49.4803682 C180.589982,49.4803682 138.008042,34.4051904 120.621103,34.4051904 C103.168362,34.4051904 60.6772267,49.47676 60.6772267,49.47676 C50.2060588,52.9647775 41.7175,46.8379729 41.7175,35.7870511 L41.7175,38.413689 Z" id="Rectangle-3"></path>
+                    <path d="M4.44333374,64.8425514 C-3.87213857,57.5745938 -2.0603078,54.3511733 8.48535533,57.5967559 L63.0250082,73.6574147 C73.6744349,76.5647263 90.1804993,74.6531083 99.7835037,69.1792656 L103.642229,66.9046516 C113.030265,61.0879319 128.199868,61.1658408 137.64165,66.9046521 L141.526306,69.194202 C151.164335,74.5664781 167.62991,76.5985391 178.275642,73.6530298 L232.799831,57.5967562 C243.347699,54.3305408 245.16344,57.5691585 236.841512,64.8425514 L135.697691,153.242588 C127.381982,160.510546 113.905964,160.515981 105.584273,153.242588 L4.44333374,64.8425514 Z" id="Rectangle-4"></path>
+                </g>
+                <g id="Oval-2-+-Oval-4" sketch:type="MSShapeGroup">
+                    <path d="M285.90028,181.405896 C286.220561,182.091058 286.385,182.78737 286.385,183.492794 C286.385,193.833638 251.049074,202.216549 207.46,202.216549 C163.870926,202.216549 128.535,193.833638 128.535,183.492794 C128.535,182.78737 128.699439,182.091058 129.01972,181.405896 L169.125,8.73775211 L169.208838,8.73775211 C170.523948,3.85832182 187.146941,0 207.46,0 C227.773059,0 244.396052,3.85832182 245.711162,8.73775211 L245.795,8.73775211 L285.90028,181.405893 Z" id="Oval-2"></path>
+                    <path d="M125.610126,168.323051 C51.734007,173.244632 0,184.625878 0,197.88002 C0,215.639558 92.8830058,230.036509 207.46,230.036509 C322.036994,230.036509 414.92,215.639558 414.92,197.88002 C414.92,184.625878 363.185993,173.244632 289.309874,168.323051 L293.522474,185.65698 C293.873877,186.375437 294.054295,187.105587 294.054295,187.845292 C294.054295,198.688654 255.284709,207.478936 207.46,207.478936 C159.635291,207.478936 120.865705,198.688654 120.865705,187.845292 C120.865705,187.105587 121.046123,186.375437 121.397526,185.65698 L125.610154,168.32305 Z" id="Oval-4"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
