@@ -2,12 +2,13 @@
 
 :thought_balloon: my :art: work
 
-| image                   | image                 | image                   |
-|:-----------------------:|:---------------------:|:-----------------------:|
-| ![footprint]            | ![lab]                | ![hieuh]                |
-| [![kotlinkr]][kknote]   | [![kotlin]][knote]    | [![photonkit]][pknote]  |
-| [![elec]][elecnote]     | ![guru]               | [![yeobara1]][yeonote]  |
-| [![yeobara2]][yeonote]  |                       |                         |
+| image                   | image                   |
+|:-----------------------:|:-----------------------:|
+| ![footprint]            | ![lab]                  |
+| [![kotlinkr]][kknote]   | [![kotlin]][knote]      |
+| [![elec]][elecnote]     | ![guru]                 |
+| ![hieuh]                | [![photonkit]][pknote]  |
+| [![yeobara2]][yeonote]  | [![yeobara1]][yeonote]  |
 
 | image                  |
 |:----------------------:|
