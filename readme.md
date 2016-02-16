@@ -36,9 +36,9 @@
 [footprint]: footprint/512/ic_launcher.png
 [guru]: guru/guru.png
 [hieuh]: hieuh/512/ic_launcher.png
-[kotlinkr]: kotlinkr/kotlinkr.png
-[kotlin]: kotlinkr/kotlin.png
-[kkfb]: kotlinkr/facebook%20cover.png
+[kotlinkr]: kotlinkr/kotlinkr@2x.png
+[kotlin]: kotlinkr/kotlin-1.png
+[kkfb]: kotlinkr/facebook-cover.png
 [ekfb]: electron/facebook%20cover.png
 [lab]: lab/512/ic_launcher.png
 [photonkit]: photonkit/512/ic_launcher.png
